@@ -1,0 +1,79 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "85acbffc-5629-4e4c-ad06-a8e38864eca1",
+      "name": "Kirill",
+      "description": "web-developer",
+      "element": "wind"
+    },
+    {
+      "id": "d2ceeca7-5612-40ce-8899-8f6d727bc709",
+      "name": "fgh",
+      "description": "fgh",
+      "element": "fire"
+    },
+    {
+      "id": "2f5ec9ea-cc3d-4d0c-834f-8e888239a290",
+      "name": "qwe",
+      "description": "dsfcxv",
+      "element": "earth"
+    },
+    {
+      "id": "7efbf06b-800f-4e8d-93fe-e808f58c47cc",
+      "name": "heroes 34",
+      "description": "suck",
+      "element": "wind"
+    },
+    {
+      "id": "7b9bcd31-f854-49f2-b444-5a0190ee76cb",
+      "name": "heroes 56",
+      "description": "duck",
+      "element": "earth"
+    },
+    {
+      "id": "750a7413-e1ed-4df0-85f1-ea10e0101bbb",
+      "name": "heroes 78",
+      "description": "dick",
+      "element": "earth"
+    },
+    {
+      "id": "c7692847-7564-405b-96bd-fb6b3e351663",
+      "name": "hero89",
+      "description": "result",
+      "element": "all"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
