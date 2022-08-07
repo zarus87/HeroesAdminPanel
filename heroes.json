@@ -47,6 +47,24 @@
       "name": "hero89",
       "description": "result",
       "element": "all"
+    },
+    {
+      "id": "f2f9d154-9515-4a95-9e73-89c23e9dabf1",
+      "name": "hero_water",
+      "description": "water_huater",
+      "element": "water"
+    },
+    {
+      "id": "808dd1d1-f8db-47c5-a777-476eee3827bf",
+      "name": "hero 2",
+      "description": "2222",
+      "element": "water"
+    },
+    {
+      "id": "69cfa34f-5887-4425-9f9b-6cda5a53abfe",
+      "name": "qwe",
+      "description": "asdxzc",
+      "element": "wind"
     }
   ],
   "filters": [
