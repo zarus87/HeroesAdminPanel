@@ -7,12 +7,6 @@
       "element": "earth"
     },
     {
-      "id": "7efbf06b-800f-4e8d-93fe-e808f58c47cc",
-      "name": "heroes 34",
-      "description": "suck",
-      "element": "wind"
-    },
-    {
       "id": "7b9bcd31-f854-49f2-b444-5a0190ee76cb",
       "name": "heroes 56",
       "description": "duck",
@@ -49,28 +43,10 @@
       "element": "wind"
     },
     {
-      "id": "47e0b3aa-143d-43e8-a7f9-903e5434c27c",
-      "name": "new hero-huiro",
-      "description": "hui blyat",
-      "element": "earth"
-    },
-    {
-      "id": "68c07ebc-a4f4-4719-96ec-996c1f56c73a",
-      "name": "heri",
-      "description": "ireh",
-      "element": "water"
-    },
-    {
       "id": "69d93e53-76e7-4e71-96e0-b6df8c828a9a",
       "name": "hero white",
       "description": "white huated",
       "element": "water"
-    },
-    {
-      "id": "feeea1b5-022a-4ab6-b025-f3e1af63b725",
-      "name": "bograd",
-      "description": "front end",
-      "element": "fire"
     },
     {
       "id": "441fc9b0-e50d-463e-a937-45be7577a601",
