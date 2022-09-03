@@ -1,24 +1,6 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
-      "element": "fire"
-    },
-    {
-      "id": "85acbffc-5629-4e4c-ad06-a8e38864eca1",
-      "name": "Kirill",
-      "description": "web-developer",
-      "element": "wind"
-    },
-    {
-      "id": "d2ceeca7-5612-40ce-8899-8f6d727bc709",
-      "name": "fgh",
-      "description": "fgh",
-      "element": "fire"
-    },
-    {
       "id": "2f5ec9ea-cc3d-4d0c-834f-8e888239a290",
       "name": "qwe",
       "description": "dsfcxv",
@@ -65,30 +47,101 @@
       "name": "qwe",
       "description": "asdxzc",
       "element": "wind"
+    },
+    {
+      "id": "47e0b3aa-143d-43e8-a7f9-903e5434c27c",
+      "name": "new hero-huiro",
+      "description": "hui blyat",
+      "element": "earth"
+    },
+    {
+      "id": "68c07ebc-a4f4-4719-96ec-996c1f56c73a",
+      "name": "heri",
+      "description": "ireh",
+      "element": "water"
+    },
+    {
+      "id": "69d93e53-76e7-4e71-96e0-b6df8c828a9a",
+      "name": "hero white",
+      "description": "white huated",
+      "element": "water"
+    },
+    {
+      "id": "feeea1b5-022a-4ab6-b025-f3e1af63b725",
+      "name": "bograd",
+      "description": "front end",
+      "element": "fire"
+    },
+    {
+      "id": "441fc9b0-e50d-463e-a937-45be7577a601",
+      "name": "tor",
+      "description": "molot",
+      "element": "all"
+    },
+    {
+      "id": "a250cad8-99db-4a9b-a6d8-57e62d6370d1",
+      "name": "fetch",
+      "description": "asdasdfsdfwef",
+      "element": "fire"
+    },
+    {
+      "id": "a2bae510-e8ec-4f3b-91a3-a8f9c37f3327",
+      "name": "rabotaet",
+      "description": "nu da",
+      "element": "water"
+    },
+    {
+      "id": "d39bb200-2c70-4e9d-b312-f8b061353e91",
+      "name": "wer",
+      "description": "sdf",
+      "element": "earth"
+    },
+    {
+      "id": "2ffd932d-58e3-4bab-8648-269672faf055",
+      "name": "sdfdsfd",
+      "description": "sdfdfsxc",
+      "element": "fire"
+    },
+    {
+      "id": "688f349e-5fb4-4551-8c0d-1af704355bfd",
+      "name": "dsfwer23",
+      "description": "s23dsfr",
+      "element": "water"
+    },
+    {
+      "id": "9d21442c-ddb0-4973-8032-a367272dfadf",
+      "name": "rost",
+      "description": "prirost",
+      "element": "wind"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"

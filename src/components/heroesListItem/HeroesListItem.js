@@ -29,8 +29,8 @@ const HeroesListItem = ({name, description, element, onDelete}) => {
                  style={{'objectFit': 'cover'}}/>
             <div className="card-body">
                 
-                <h3 className="card-title">{name}</h3>
-                <p className="card-text">{description}</p>
+                <h3 className="card-title">Имя:{name}</h3>
+                <p className="card-text">Описание:{description}</p>
             </div>
             <span onClick = {onDelete} 
             className="position-absolute top-0 start-100 translate-middle badge border rounded-pill bg-light">
