@@ -1,12 +1,6 @@
 {
   "heroes": [
     {
-      "id": "2f5ec9ea-cc3d-4d0c-834f-8e888239a290",
-      "name": "qwe",
-      "description": "dsfcxv",
-      "element": "earth"
-    },
-    {
       "id": "7b9bcd31-f854-49f2-b444-5a0190ee76cb",
       "name": "heroes 56",
       "description": "duck",
@@ -89,6 +83,12 @@
       "name": "rost",
       "description": "prirost",
       "element": "wind"
+    },
+    {
+      "id": "857c95cf-7b8b-41a9-868a-17fb6f5ef581",
+      "name": "Rbhs",
+      "description": "sad",
+      "element": "water"
     }
   ],
   "filters": [
